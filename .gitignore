@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# databases
+cats_and_dogs_small/
+dogs-vs-cats/
 # C extensions
 *.so
 
